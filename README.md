@@ -5,15 +5,14 @@
   I am proficient in HTML, CSS, Bootstrap, SCSS, jQuery, JavaScript/ES(Next), and React.js
   Also I am Passionate about modern Technologies, libraries, and frameworks usability and possess working knowledge of Adobe XD & Figma.</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dina-elorbany" alt="dina-elorbany" /></a> </p>
-
 - 💼 I worked as a web-development instructor for **AASTMT**
 
 - 👩🏻‍💻 I’m currently working on **Codemy (e-commerce Project)**
 
 - 📚 I’m currently learning **TypeScript and Tailwind**
 
-- 📩 Reach me on **📞 +20 100 45 210 46** or **📩 [dina.elorbany@outlook.com](dina.elorbany@outlook.com)**
+- 📩 Reach me on **📞 +20 100 45 210 46**
+              or **📩 [dina.elorbany@outlook.com](dina.elorbany@outlook.com)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TKofErHj3YznQ-cT04Ro90o4vcy2p9YN/view?usp=sharing](https://drive.google.com/file/d/1TKofErHj3YznQ-cT04Ro90o4vcy2p9YN/view?usp=sharing)
 
@@ -39,3 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dina-elorbany&show_icons=true&locale=en&layout=compact" alt="dina-elorbany" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dina-elorbany&show_icons=true&locale=en" alt="dina-elorbany" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dina-elorbany" alt="dina-elorbany" /></a> </p>
