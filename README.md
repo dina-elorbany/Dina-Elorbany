@@ -13,7 +13,7 @@
 
 - 📚 I’m currently learning **TypeScript and Tailwind**
 
-- 📩 Reach me on **dina.elorbany@outlook.com, +20 100 45 210 46**
+- 📩 Reach me on **📞 +20 100 45 210 46** or **📩 [dina.elorbany@outlook.com](dina.elorbany@outlook.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TKofErHj3YznQ-cT04Ro90o4vcy2p9YN/view?usp=sharing](https://drive.google.com/file/d/1TKofErHj3YznQ-cT04Ro90o4vcy2p9YN/view?usp=sharing)
 
