@@ -1,15 +1,19 @@
 <h1 align="center">Hi There 👋, I'm Dina Elorbany</h1>
 <h3 align="center">Frontend developer (React JS), "Future FullStack developer"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dina-elorbany&label=Profile%20views&color=0e75b6&style=flat" alt="dina-elorbany" /> </p>
+<p align="left">I am an Innovative frontend developer with about a year of experience building and maintaining responsive websites.
+  I am proficient in HTML, CSS, Bootstrap, SCSS, jQuery, JavaScript/ES(Next), and React.js
+  Also I am Passionate about modern Technologies, libraries, and frameworks usability and possess working knowledge of Adobe XD & Figma.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dina-elorbany" alt="dina-elorbany" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dina-elorbany" alt="dina-elorbany" /></a> </p>
 
-- 🔭 I’m currently working on **Codemy**
+- 💼 I worked as a web-development instructor for **AASTMT**
 
-- 🌱 I’m currently learning **TypeScript and Tailwind**
+- 👩🏻‍💻 I’m currently working on **Codemy (e-commerce Project)**
 
-- 📫 How to reach me **+20 100 45 210 46, dina.elorbany@outlook.com**
+- 📚 I’m currently learning **TypeScript and Tailwind**
+
+- 📩 Reach me on **dina.elorbany@outlook.com, +20 100 45 210 46**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TKofErHj3YznQ-cT04Ro90o4vcy2p9YN/view?usp=sharing](https://drive.google.com/file/d/1TKofErHj3YznQ-cT04Ro90o4vcy2p9YN/view?usp=sharing)
 
@@ -23,7 +27,10 @@
 <a href="https://dev.to/dinaelorbany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dinaelorbany" height="30" width="40" /></a>
 <a href="https://twitter.com/dinaelorbany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinaelorbany" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dina-elorbany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dina-elorbany" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/dina-elorbany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dina-elorbany" height="30" width="40" /></a>
+<a href="https://codesandbox.com/dina-elorbany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dina-elorbany" height="30" width="40" /></a>
 <a href="https://fb.com/dina.elorbany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dina.elorbany" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dina-elorbany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dina-elorbany" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
