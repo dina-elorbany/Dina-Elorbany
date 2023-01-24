@@ -10,7 +10,7 @@
 
 - 💼 I worked as a web-development instructor for **AASTMT**
 
-- 👩🏻‍💻 I’m currently working on **Codemy (e-commerce Project)**
+- 👩🏻‍💻 I’m currently working on **Codemy (e-commerce project)**
 
 - 📚 I’m currently learning **TypeScript and Tailwind**
 
