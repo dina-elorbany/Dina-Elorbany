@@ -18,7 +18,9 @@
   + **📞 +20 100 45 210 46**
   + **📩 [dina.elorbany@outlook.com](dina.elorbany@outlook.com)**
 
-- 📄 Here is my resume: [https://drive.google.com/file/d/1TKofErHj3YznQ-cT04Ro90o4vcy2p9YN/view?usp=sharing](https://drive.google.com/file/d/1TKofErHj3YznQ-cT04Ro90o4vcy2p9YN/view?usp=sharing)
+- 📄 Here is my:
+    - [Resume](https://drive.google.com/file/d/1TKofErHj3YznQ-cT04Ro90o4vcy2p9YN/view?usp=sharing)
+    - [Portfolio](https://dina-elorbany.netlify.app)
 
 
 <!-- ### Blogs posts -->
