@@ -3,16 +3,16 @@
 
 <h6 align="left">
   <p>I am an Innovative frontend developer with about a year of experience building and maintaining responsive websites.</p>
-  <p>I have spent about a year in self-learning frontend development using (HTML, CSS JavaScript, Bootstrap, Tailwind, Sass, jQuery and React.js), and currently I’m working individually on creating my portfolio using (React.js and Sanity CMS) and in a team on creating an e-commerce website.</p>
-  <p>I am really passionate about modern Technologies, libraries, and frameworks usability.</p>
-  <p>Beside that I also know about working with web design tools Adobe XD & Figma.</p>
+  <p>I have spent about a year in self-learning frontend development using (HTML, CSS, Sass, JavaScript, Bootstrap, Tailwind, Material UI, jQuery, and React.js), and currently, I’m working individually on creating my portfolio using (React.js and Sanity CMS), and in a team on creating an e-commerce website.</p>
+  <p>I am really passionate about modern Technologies, libraries, and frameworks' usability.</p>
+  <p>Besides that, I also know about working with web design tools Adobe XD & Figma.</p>
 </h6>
 
 - 💼 I worked as a web-development instructor for **AASTMT**
 
 - 👩🏻‍💻 I’m currently working on **Codemy (e-commerce project)**
 
-- 📚 I’m currently learning **TypeScript and Tailwind**
+- 📚 I’m currently learning **TypeScript, Redux, Problem Solving, Data Structures, and Algorithms**
 
 - 📩 Reach me on:
   + **📞 +20 100 45 210 46**
