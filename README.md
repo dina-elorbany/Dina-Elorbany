@@ -149,11 +149,11 @@
                 
 ----
                     
-<p align="center">
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dina-elorbany&show_icons=true&locale=en&layout=compact" alt="dina-elorbany" />
 </p>
 
-<p align="center">
+<p align="right">
   &nbsp;
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dina-elorbany&show_icons=true&locale=en" alt="dina-elorbany" />
 </p>
