@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Dina Elorbany</h1>
-<h3 align="center">Frontend developer (React JS), "Future FullStack developer"</h3>
+<h3 align="center">Frontend Developer (React JS), "Software Engineer Intern"</h3>
 
 <h6 align="left">
   <p>I am an Innovative frontend developer with about a year of experience building and maintaining responsive websites.</p>
