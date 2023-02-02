@@ -2,10 +2,15 @@
 <h3 align="center">Frontend Developer (React JS), "Software Engineer Intern"</h3>
 
 <h6 align="left">
-  <p>I am an Innovative frontend developer with about a year of experience building and maintaining responsive websites.</p>
-  <p>I have spent about a year in self-learning frontend development using (HTML, CSS, Sass, JavaScript, Bootstrap, Tailwind, Material UI, jQuery, and React.js), and currently, I’m working individually on creating my portfolio using (React.js and Sanity CMS), and in a team on creating an e-commerce website.</p>
-  <p>I am really passionate about modern Technologies, libraries, and frameworks' usability.</p>
+  <p>I am an Innovative frontend developer with about a year of experience building and maintaining responsive websites and learning about modern technologies, libraries, and frameworks' usability.</p>
+  
+  <p>I’ve about a year of experience and self-learning in frontend development and I’ve got three certificates from Udacity fwd in both the Foundation and Professional Web Development tracks and React JS Cross-Skilling.</p>
+  
+  <p>I also worked for Arab Academy for Science, Technology, and Maritime Transport for 5 months as a web development instructor. I was teaching on this course the basics of HTML, CSS, bootstrap, and javascript.</p>
+  
+  <p>I’ve finished my portfolio by using React JS, Sass, Material UI, and Sanity CMS. and I’m currently working with a team on creating a Udemy clone website by using React JS, Typescript, React Tailwind CSS, Firebase, and Agile system.</p>
   <p>Besides that, I also know about working with web design tools Adobe XD & Figma.</p>
+  
 </h6>
 
 - 💼 I worked as a web-development instructor for **AASTMT**
